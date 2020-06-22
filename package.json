@@ -3,9 +3,20 @@
 	"displayName": "%displayName%",
 	"description": "%description%",
 	"categories": [ "Themes" ],
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "vscode",
 	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/FnkSte/theme-smc-dark.git"
+	},
+	"keywords": [
+		"Theme",
+		"Dark Theme",
+		"Night Owl",
+		"Night Theme",
+		"Accessible Theme"
+	],	
 	"engines": { "vscode": "*" },
 	"contributes": {
 		"themes": [
